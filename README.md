@@ -1,8 +1,5 @@
 # Optimized-path-for-Product-Manufacturing
 
-# Covid-19-Tracker
-
-<h2>COVID-19 Tracker</h2>
 <br><h3>Abstract</h3>
 <br>Assembly line scheduling helps us to understand and know how tasks are
 to be assigned to workstations, so that the predetermined goal is achieved.
